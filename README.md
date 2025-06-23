@@ -7,4 +7,4 @@
 
 [1070. Product Sales Analysis III](./leetcode/1070.Product_Sales_Analysis_III.sql) - RANK()
 
-[1045.Customers_Who_Bought_All_Products](./leetcode/1045.Customers_Who_Bought_All_Products.sql) - HAVING stat
+[1045.Customers_Who_Bought_All_Products](./leetcode/1045.Customers_Who_Bought_All_Products.sql) - HAVING statement
