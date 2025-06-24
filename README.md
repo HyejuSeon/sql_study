@@ -10,3 +10,5 @@
 [1045. Customers Who Bought All Products](./leetcode/1045.Customers_Who_Bought_All_Products.sql) - HAVING statement
 
 [180. Consecutive Numbers](./leetcode/180.Consecutive_Numbers.sql) - LEAD(col [,offset][,default]), JOIN statement
+
+[1164. Product Price at a Given date.sql](./leetcode/1164.Product_Price_at_a_Given_date.sql) - FIRST_VALUE(), UNION vs UNIONALL + DISTINCT
