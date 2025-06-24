@@ -11,4 +11,6 @@
 
 [180. Consecutive Numbers](./leetcode/180.Consecutive_Numbers.sql) - LEAD(col [,offset][,default]), JOIN statement
 
-[1164. Product Price at a Given date.sql](./leetcode/1164.Product_Price_at_a_Given_date.sql) - FIRST_VALUE(), UNION vs UNIONALL + DISTINCT
+[1164. Product Price at a Given date](./leetcode/1164.Product_Price_at_a_Given_date.sql) - FIRST_VALUE(), UNION vs UNIONALL + DISTINCT
+
+[1204. Last Person to Fit in the Bus](./leetcode/1204.Last_Person_to_Fit_in_the_Bus.sql) - SUM() OVER(), rownum, FIRST_VALUE()
