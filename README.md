@@ -16,3 +16,5 @@
 [1204. Last Person to Fit in the Bus](./leetcode/1204.Last_Person_to_Fit_in_the_Bus.sql) - SUM() OVER(), rownum, FIRST_VALUE()
 
 [1907. Count Salary Categories](./leetcode/1907.Count_Salary_Categories.sql) - UNION ALL
+
+[626. Exchange Seats](./leetcode/626.Exchange_Seats.sql) - LEAD(), LAG()
