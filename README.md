@@ -20,3 +20,5 @@
 [626. Exchange Seats](./leetcode/626.Exchange_Seats.sql) - LEAD(), LAG()
 
 [1341. Movie Rating](./leetcode/1341.Movie_Rating.sql) - UNION ALL, ROW_NUMBER()
+
+[602. Friend Requests II: Who Has the Most Friends](./leetcode/602.Friend_Requests_II:Who_Has_the_Most_Friends.sql) - UNION ALL
